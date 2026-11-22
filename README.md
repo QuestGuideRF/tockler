@@ -4,11 +4,8 @@
 
 **Автоматический трекер времени и использования компьютера**
 
-[![Версия](https://img.shields.io/github/v/release/MayGo/tockler)](https://github.com/MayGo/tockler/releases/latest)
-[![Всего загрузок](https://img.shields.io/github/downloads/maygo/tockler/total)](https://github.com/MayGo/tockler/releases)
-[![Последняя версия](https://img.shields.io/github/downloads/maygo/tockler/latest/total)](https://github.com/MayGo/tockler/releases/latest)
 
-[Скачать](#-скачать) • [Возможности](#-возможности) • [Разработка](#-разработка) • [Лицензия](#-лицензия)
+[Возможности](#-возможности) • [Разработка](#-разработка) • [Сборки и релизы](#-сборки-и-релизы)
 
 </div>
 
@@ -110,46 +107,9 @@ Tockler построен на современных веб-технология
 
 ---
 
-## 📥 Скачать
+## 📦 Сборки и релизы
 
-<div align="center">
-
-[![Все версии](https://img.shields.io/badge/Все%20версии-История%20релизов-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayGo/tockler/releases/latest)
-
-</div>
-
-### 🪟 Windows
-
-<div align="center">
-
-[![Windows Universal Setup](https://img.shields.io/badge/Windows%20Universal%20Setup-Скачать-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MayGo/tockler/releases/latest)
-[![Windows x64 Setup](https://img.shields.io/badge/Windows%20x64%20Setup-Скачать-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MayGo/tockler/releases/latest)
-[![Windows ARM64 Setup](https://img.shields.io/badge/Windows%20ARM64%20Setup-Скачать-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MayGo/tockler/releases/latest)
-[![Windows 32-bit Setup](https://img.shields.io/badge/Windows%2032--bit%20Setup-Скачать-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MayGo/tockler/releases/latest)
-
-[![Windows Universal Portable](https://img.shields.io/badge/Windows%20Universal%20Portable-Скачать-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MayGo/tockler/releases/latest)
-[![Windows x64 Portable](https://img.shields.io/badge/Windows%20x64%20Portable-Скачать-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MayGo/tockler/releases/latest)
-[![Windows ARM64 Portable](https://img.shields.io/badge/Windows%20ARM64%20Portable-Скачать-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MayGo/tockler/releases/latest)
-[![Windows 32-bit Portable](https://img.shields.io/badge/Windows%2032--bit%20Portable-Скачать-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MayGo/tockler/releases/latest)
-
-</div>
-
-### 🍎 macOS
-
-<div align="center">
-
-[![macOS Universal DMG](https://img.shields.io/badge/macOS%20Universal%20(DMG)-Скачать-999999?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/MayGo/tockler/releases/latest)
-[![macOS Apple Silicon DMG](https://img.shields.io/badge/macOS%20Apple%20Silicon%20(DMG)-Скачать-999999?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/MayGo/tockler/releases/latest)
-
-</div>
-
-### 🐧 Linux
-
-<div align="center">
-
-[![Linux AppImage](https://img.shields.io/badge/Linux%20AppImage-Скачать-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/MayGo/tockler/releases/latest)
-
-</div>
+В репозитории `QuestGuideRF/tockler` на момент проверки не опубликованы готовые пакеты в GitHub Releases. Для запуска воспользуйтесь инструкциями разработки ниже. Ссылки на релизы других репозиториев не являются загрузками этой версии.
 
 ---
 
